@@ -34,3 +34,6 @@
 ```  
 8. Open ```Output.txt``` And Navigate to the last line, Remove the ```,``` On the last entry.
 9. Copy all of the data from ```output.txt``` to the proper ```Market.json``` file.
+
+#Notes
+- Video Tutorial Here: https://youtu.be/vG36CnhzU7Y
