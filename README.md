@@ -1,13 +1,13 @@
 # DZEMDG
 # Description
-  This python script will automaticly create data for the DayZ Expansion Market / Trader mod.
+  This python script will automatically create the data for the Days Expansion Market / Trader mod.
 
 #Requirements
 - Python
 
 # How to use
  1. Create a file called ```Input.txt```
- 2. Fill ```Input.txt``` With all the class names for the mod you are trying to add. The Format Has to be as follows
+ 2. Fill ```Input.txt``` With all the class names for the mod you are trying to add. The Format Has to be as follows.
  ```
  Item 1
  Item 2
