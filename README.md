@@ -13,7 +13,7 @@
  Item 2
  Item 3
  ```
- 3. Run the following command in the command line ```python ./DZEMDG.py```
+ 3. Run the following command in the command line ```python DZEMDG.py```
  4. The Script Will Ask for the ```input path```, input the full path of the file we created earlyer (```Input.txt```).
  5. The Script Will Ask for the ```output path```, input the path you would like it to save the file to.
  6. Wait for the script to finish.
