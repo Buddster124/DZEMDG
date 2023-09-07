@@ -36,4 +36,6 @@
 9. Copy all of the data from ```output.txt``` to the proper ```Market.json``` file.
 
 #Notes
-- Video Tutorial Here: https://youtu.be/vG36CnhzU7Y
+- Important: When installing python make sure you check the box to install python to PATH, If you do not do this you will run into errors when trying to run the script.
+
+- Video Tutorial Here (Will Make an updated video soon): https://youtu.be/vG36CnhzU7Y
